@@ -1,0 +1,15 @@
+#Create a Vector
+numeric_ vector<-c(10,20,30,40,50)
+#extract the third element from the vector
+element_from_vector<-numericvector[3]
+print(element_from_vector)
+#Matrix
+numeric_matrix<-matrix(c(1,2,3,4,5,6),n row=2, n col=3)
+#Extract the element in the second row and third column 
+element_from_matrix<-numeric_matrix[2,3]
+print(element_from-matrix)
+#Array
+numeric_array<-array(c(1,2,3,4,5,6,7,8,9),dim=c(3,3,1))
+#extract the element in the second row and second column and first layer
+element_from_array<-numeric_array[2,2,1]
+print(element_from_array)
