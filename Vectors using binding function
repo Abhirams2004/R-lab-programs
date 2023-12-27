@@ -1,0 +1,14 @@
+Column Binding cbind()
+vector 1<c(1,2,3)
+vector 2<c(4,5,6)
+column_matrix<(Vector1,Vector2)
+print(column_matrix)
+
+
+Row binding  R bind()
+vector 3<-R(4,5,6)
+Vector 4<-(7,8,9)
+Row_matrix<_R bind (vector3 ,Vector4)
+print(Row_matrix)
+
+
