@@ -1,0 +1,12 @@
+Sequence<-seq(1,10,by=1)
+print(Sequence)
+numeric_vector<-c(3.5,6.5)
+print(numeric vector)
+Character _vector<-c("Apple","Banana")
+print(Character _vector)
+
+
+CREATION OF VECTORS USING MATRICES IN C
+Numeric_matrix<-matrix(c(1,2,3,4,5,6,,8,9,10,11,12),n row=3,n col=4)
+print(numeric_ matrix)
+
