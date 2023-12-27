@@ -1,0 +1,19 @@
+#Recursive function to calculate factorial
+factorial_recursive<- func(n)
+{
+  If (n==0||n==1)
+  {
+    return(1)
+    }
+    Else
+    {
+    return (n*factorial_recursive(n-1))
+    }
+  }
+#Input
+input_number<-5
+#calculate factorial using the recursive function
+result<-factorial_recursive9inputnumber)
+#display the result
+cat("factorial of",input_number,"is:",result,"\n")
+       
