@@ -1,0 +1,27 @@
+1. Name <-"Abhiram
+   age<-19
+2. #NUMERIC
+   X<10.5
+   Class(X)
+   #INTEGER
+   X<1000L
+   Class(X)
+   #COMPLEX
+   X<9i+3
+   Class(X)
+   #CHARACTER/STRING
+    X<"Apple"
+    class(X)
+    #LOGICAL/BOOLEAN
+     X<"True"
+     Class(X)
+ 3.X< 1L # INTEGER
+   Y<2 #NUMERIC
+   a<-as.numeric(x)
+   b<-as.integer(y)
+   #print the value of x and y
+    x
+    y
+    class(a)
+    class(b)
+
